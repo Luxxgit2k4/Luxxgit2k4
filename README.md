@@ -1,18 +1,13 @@
-<h2 align="left">👋 Hi! I'm Laksmanan <br>A passionate web developer and Designer</h2>
+## 👋 Hi! I'm Laksmanan
+A passionate web developer and Designer
 
-###
+- 📫 How to reach me: [click here](mailto:lakshmanoni1234@gmail.com)
+- 📝 I regularly write articles on [Dev.to](https://dev.to/luxxgit2k4)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/15bJ-ZdZI2HpYwBq005FMe49nIcXvQSMv/view)
+- 🌱 Currently learning DSA
+- 💬 Ask me about bash scripting
+- ⚡ Fun fact: I use Arch BTW
 
-<p align="left">
-  • 📫 How to reach me [click here](mailto:lakshmanoni1234@gmail.com)<br>
-  • 📝 I regularly write articles on [Dev.to](https://dev.to/luxxgit2k4)<br>
-  • 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15bJ-ZdZI2HpYwBq005FMe49nIcXvQSMv/view)<br>
-  • 🌱 Currently learning DSA<br>
-  • 💬 Ask me about bash scripting<br>
-  • ⚡ Fun fact: I use Arch BTW
-</p>
-
-
-###
 
 <div align="left">
   <a href="mailto:lakshmanoni1234@gmail.com" target="_blank">
