@@ -2,7 +2,15 @@
 
 ###
 
-<p align="left">• 📫 How to reach me lakshmanoni1234@gmail.com<br>• 📝 I regularly write articles on<br>https://dev.to/luxxgit2k4<br>• 📄 Know about my experiences https://drive.google.com/file/d/150Gs7IeJG6xToI3-XjDloEPmzsZcaVJq/view<br>•🌱 Currently learning DSA<br>• 💬 Ask me about bash scripting<br>• ⚡ Fun fact: I use Arch BTW</p>
+<p align="left">
+  • 📫 How to reach me [click here](mailto:lakshmanoni1234@gmail.com)<br>
+  • 📝 I regularly write articles on [Dev.to](https://dev.to/luxxgit2k4)<br>
+  • 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15bJ-ZdZI2HpYwBq005FMe49nIcXvQSMv/view)<br>
+  • 🌱 Currently learning DSA<br>
+  • 💬 Ask me about bash scripting<br>
+  • ⚡ Fun fact: I use Arch BTW
+</p>
+
 
 ###
 
