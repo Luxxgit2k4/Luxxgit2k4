@@ -51,9 +51,3 @@ Connect with me on
 </a>
 
 </div>
-
-###
-
-<div align="center">
-  <img height="180" src="https://raw.githubusercontent.com/kevinamiri/chatgpt-spreadsheet-example/master/generative-ai.gif" alt="AI animation" />
-</div>
