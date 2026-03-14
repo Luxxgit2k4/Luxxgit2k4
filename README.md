@@ -1,4 +1,4 @@
-## 👋 Hi! I'm Laksmanan
+## 👋 Hi! I'm Lakshmanan Palani
 A passionate web developer and Designer
 
 - 📫 How to reach me: [click here](mailto:lakshmanoni1234@gmail.com)
