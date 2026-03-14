@@ -1,13 +1,13 @@
 ## 👋 Hi! I'm Lakshmanan Palani
-A passionate web developer and Designer
+Building software by day, debugging edge cases at 3am.
 
 - 📫 How to reach me: [click here](mailto:lakshmanoni1234@gmail.com)
-- 📝 I regularly write articles on [Dev.to](https://dev.to/luxxgit2k4)
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/15bJ-ZdZI2HpYwBq005FMe49nIcXvQSMv/view)
-- 🌱 Currently learning DSA
-- 💬 Ask me about bash scripting
+- 📝 I write articles on [Dev.to](https://dev.to/luxxgit2k4)
+- 🌱 Currently exploring DevOps and MLOps
+- 💬 Ask me about Design, React, Python, and AI
 - ⚡ Fun fact: I use Arch BTW
 
+Connect with me on
 
 <div align="left">
   <a href="mailto:lakshmanoni1234@gmail.com" target="_blank">
@@ -55,5 +55,5 @@ A passionate web developer and Designer
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Luxxgit2k4/count.svg?"  />
+  <img height="180" src="https://raw.githubusercontent.com/kevinamiri/chatgpt-spreadsheet-example/master/generative-ai.gif" alt="AI animation" />
 </div>
